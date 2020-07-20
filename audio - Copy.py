@@ -1,12 +1,8 @@
-import speech_recognition as sr
-import subprocess
-import ffmpeg
-import wave
-import contextlib
 
 # importing librarys
-from speech_recognition import AudioData
+
 import speech_recognition as sr
+from speech_recognition import AudioData
 import subprocess
 import ffmpeg
 import wave
