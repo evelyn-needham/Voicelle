@@ -5,7 +5,7 @@ This project is for the Colorado School of Mines Computing for the Good Summer I
 # Setup
 Download the .py files. Make sure the python packages listed below are installed.
 
-THis code will work on both Windows and Mac Pyhton IDEs and terminals
+This code will work on both Windows and Mac Python IDEs or terminals
 
 # Examples/Output
 Here is an example of the output text file.
